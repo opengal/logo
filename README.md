@@ -1,3 +1,5 @@
+![OpenGal LOGO](./opengal.png)
+
 # OpenGal LOGO
 
 OpenGal logo svg file.
